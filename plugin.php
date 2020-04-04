@@ -1,10 +1,11 @@
 <?php
 /**
  * Plugin Name: Carousel Slider Block - Autoplay
- * Plugin URI: https://wordpress.org/plugins/carousel-block
+ * Original Plugin URI: https://wordpress.org/plugins/carousel-block
  * Description: A responsive and customizable carousel block for Gutenberg. 
- * Author URI: http://virgiliudiaconu.com/
- * Version: 1.0.1
+ * Original Author URI: http://virgiliudiaconu.com/
+ * Author URI: http://offsetleft.net
+ * Version: 1.1.0
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
  *
