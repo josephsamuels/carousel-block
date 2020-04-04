@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Carousel Slider Block
+ * Plugin Name: Carousel Slider Block - Autoplay
  * Plugin URI: https://wordpress.org/plugins/carousel-block
  * Description: A responsive and customizable carousel block for Gutenberg. 
  * Author URI: http://virgiliudiaconu.com/
