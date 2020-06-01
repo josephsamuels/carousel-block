@@ -1,5 +1,5 @@
 {
-  "name": "carousel-block-autoplay",
+  "name": "josephsamuels/carousel-block-autoplay",
   "type": "wordpress-plugin",
   "require": {
     "composer/installers": "~1.0"
